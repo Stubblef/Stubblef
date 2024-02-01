@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Stubblef&show_icons=true&theme=github-compact" /> </div>
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Stubblef/Stubblef&type=Date)](https://star-history.com/#Stubblef/Stubblef&Date)
