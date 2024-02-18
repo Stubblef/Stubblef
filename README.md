@@ -11,9 +11,7 @@
 </p>
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Stubblef&show_icons=true&theme=github-compact" /> </div>
-😄 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Stubblef/Stubblef&type=Date)](https://star-history.com/#Stubblef/Stubblef&Date)
 <!--
 **Stubblef/Stubblef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
